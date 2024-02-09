@@ -22,10 +22,7 @@
 [<img align="left" alt="Akash's Email" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" />][gmail]
 [<img align="left" alt="Akash's GitHub" width="30px" src="https://img.icons8.com/3d-fluency/94/github.png" />][github]
 <br />
-[website]: https://yourwebsiteurl.com
-[linkedin]: https://www.linkedin.com/in/akash-deep-saha/
-[gmail]: mailto:youremail@example.com
-[github]: https://github.com/yourgithubusername
+
 
 ## ♨ Languages and Tools:
 

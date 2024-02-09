@@ -18,7 +18,7 @@
 ## Connect with me:
 
 [<img align="left" alt="Akash's Website" width="30px" src="https://img.icons8.com/3d-fluency/94/domain.png" />][website]
-[<img align="left" alt="Akash's LinkedIn" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" />][linkedin]
+[<img align="left" alt="Akash's LinkedIn" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" />][https://www.linkedin.com/in/akash-deep-saha/]
 [<img align="left" alt="Akash's Email" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" />][gmail]
 [<img align="left" alt="Akash's GitHub" width="30px" src="https://img.icons8.com/3d-fluency/94/github.png" />][github]
 <br />

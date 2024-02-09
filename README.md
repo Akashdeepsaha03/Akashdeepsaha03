@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=Akashdeepsaha03" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Akashdeepsaha03?color=tomato&logo=github">
+  
 </p>
 
 ## I'm a Full Stack Developer and Software Engineer!
@@ -42,9 +42,11 @@
 
 ### 📕 Latest Projects
 
-- [Pathfinding Algorithm for Safe Travel](#)
-- [Hotel Reservation Management System](#)
-- [Innovative Solutions Developed in Hackathons](#)
+- [Sports Search Engine](https://github.com/Akashdeepsaha03/SportsWebSearchEngine)
+- [Optimal Path Finder](https://github.com/Akashdeepsaha03/OptimalPathFinder)
+- [Temperature Monitoring](https://github.com/Akashdeepsaha03/Temperature-Monitoring)
+- [Credit Card Fraud Detection](https://github.com/Akashdeepsaha03/CreditCardFraudDetection)
+- [Course Registration System](https://github.com/Akashdeepsaha03/course-registration-system)
 
 ---
 
